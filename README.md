@@ -24,10 +24,16 @@ This repo is basically a kind of Index just as given in a book. Here you can fin
 |6. |React-Custom-Hooks       |    |   |
 |7. |React-Query_App         |    |   |
 |8. |React-Query        |    |   |
-|9. |        |    |   |
-|10. |        |    |   |
-|11. |        |    |   |
-|12. |        |    |   |
+|9. |redux-saga       |    |   |
+|10. |Food-Search-Engine-React-WebApp         |    |   |
+|11. |React-Fundamentals         |    |   |
+|12. |Covid-Statistics-ReactApp         |    |   |
+|13. |GithubFinder-React-App        |    |   |
+|14. |React-Animation-Framer-Motion          |    |   |
+|15. |React-Redux           |    |   |
+|16. | WeatherForcast-ReactWebApp          |    |   |
+|17. |InDecisionApp-Reactjs     |    |   |
+|18. | WeatherForcast-ReactWebApp          |    |   |
  
 </details>
 
@@ -44,10 +50,10 @@ This repo is basically a kind of Index just as given in a book. Here you can fin
 |1. |EasyEvent-React-Node-Graphql |  | |
 |2. | Chatbot-websocket      |  | |  
 |3. |  Zoom-Clone      |    |   |
-|4. |        |    |   |
-|5. |        |    |   |
-|6. |        |    |   |
-|7. |        |    |   |
+|4. |Instagram-REACTAPP_PWA        |    |   |
+|5. |Proshop-mern-stack        |    |   |
+|6. |React-Node-GraphQL        |    |   |
+|7. | Webchat-Application-socket.io       |    |   |
 |8. |        |    |   |
 |9. |        |    |   |
 |10. |        |    |   |
@@ -66,16 +72,16 @@ This repo is basically a kind of Index just as given in a book. Here you can fin
    |  Sr.no       | Repository|Description|Type  
 | -------------|--------------|--------------|--------------|   
 |1. |Employee-Management-System |  | |
-|2. |      |  | |  
-|3. |        |    |   |
-|4. |        |    |   |
-|5. |        |    |   |
-|6. |        |    |   |
-|7. |        |    |   |
-|8. |        |    |   |
-|9. |        |    |   |
-|10. |        |    |   |
-|11. |        |    |   |
+|2. |Node-SwaggerApi      |  | |  
+|3. | Node-Express-Redis       |    |   |
+|4. |  base64-Image-Uploading-nodejs      |    |   |
+|5. |Node-Sequelize-ORM-RestAPI        |    |   |
+|6. |Nodejs-RestApi-testing-chai-Mocha         |    |   |
+|7. |Hut-Hilltop        |    |   |
+|8. |RestApi-Express-Firebase        |    |   |
+|9. |Restapi-ExpressJs-JWT-Authentication        |    |   |
+|10. | Password_Management-Node.JS-Express-App       |    |   |
+|11. |Node-JS-fundamentals         |    |   |
 |12. |        |    |   |
 </details>
 
@@ -90,9 +96,9 @@ This repo is basically a kind of Index just as given in a book. Here you can fin
    |  Sr.no       | Repository|Description|Type  
 | -------------|--------------|--------------|--------------|   
 |1. |Shoppingcart-react-Typescript  |  | |
-|2. |      |  | |  
-|3. |        |    |   |
-|4. |        |    |   |
+|2. | JBook-Compiler      |  | |  
+|3. |Node-Typescript         |    |   |
+|4. | React-Typescript       |    |   |
 |5. |        |    |   |
 |6. |        |    |   |
 |7. |        |    |   |
@@ -114,13 +120,13 @@ This repo is basically a kind of Index just as given in a book. Here you can fin
    |  Sr.no       | Repository|Description|Type  
 | -------------|--------------|--------------|--------------|   
 |1. |Core-Java-Programming-Practices |  | |
-|2. |      |  | |  
-|3. |        |    |   |
-|4. |        |    |   |
-|5. |        |    |   |
-|6. |        |    |   |
-|7. |        |    |   |
-|8. |        |    |   |
+|2. |Leetcode-problems      |  | |  
+|3. | Java-Programming       |    |   |
+|4. |Java-Programs        |    |   |
+|5. | Data-Structure-Algorithms       |    |   |
+|6. |  Competitive      |    |   |
+|7. | searching-sorting        |    |   |
+|8. |Data_Structures        |    |   |
 |9. |        |    |   |
 |10. |        |    |   |
 |11. |        |    |   |
@@ -139,10 +145,10 @@ This repo is basically a kind of Index just as given in a book. Here you can fin
 | -------------|--------------|--------------|--------------|   
 |1. |TypeAhead-AutoSuggestion  |  | |
 |2. | Webrtc-Vanillajs     |  | |  
-|3. |        |    |   |
-|4. |        |    |   |
-|5. |        |    |   |
-|6. |        |    |   |
+|3. | Portfolio-V2       |    |   |
+|4. | To-Do-App       |    |   |
+|5. | Responsive-design       |    |   |
+|6. | Microsoft-ExcelClone        |    |   |
 |7. |        |    |   |
 |8. |        |    |   |
 |9. |        |    |   |
@@ -166,7 +172,7 @@ This repo is basically a kind of Index just as given in a book. Here you can fin
 |3. |  COVID-19-Tracker-DashBoard-Angular9-       |    |   |
 |4. |E-SHOP-Angular9-ecommerce         | backend -> E-shop-RestApi-Nodejs   |   |
 |5. | Invoice-App       |    |   |
-|6. |        |    |   |
+|6. | The-Spruce-Eats        |    |   |
 |7. |        |    |   |
 |8. |        |    |   |
 |9. |        |    |   |
@@ -186,9 +192,9 @@ This repo is basically a kind of Index just as given in a book. Here you can fin
    |  Sr.no       | Repository|Description|Type  
 | -------------|--------------|--------------|--------------|   
 |1. |weatherApp-ReactNative  |  | |
-|2. | quiz-app-react-native     |  | |  
-|3. |        |    |   |
-|4. |        |    |   |
+|2. |quiz-app-react-native     |  | |  
+|3. |React-Native-Ecommerce-EasyBuy-       |    |   |
+|4. |react-native        |    |   |
 |5. |        |    |   |
 |6. |        |    |   |
 |7. |        |    |   |
@@ -226,11 +232,11 @@ This repo is basically a kind of Index just as given in a book. Here you can fin
 | -------------|--------------|--------------|--------------|   
 |1. |Room-BookingApp |  | |
 |2. | Restaurant-Backend-Golang     |  | |  
-|3. |        |    |   |
-|4. |        |    |   |
-|5. |        |    |   |
-|6. |        |    |   |
-|7. |        |    |   |
+|3. | Golang        |    |   |
+|4. | Banking-server       |    |   |
+|5. | Banking-Auth-Microservice       |    |   |
+|6. | Go-Mongo-RestApi-Gin-Gonic-       |    |   |
+|7. | Go-Gin-Microservice-RestApi        |    |   |
 |8. |        |    |   |
 |9. |        |    |   |
 |10. |        |    |   |
@@ -239,3 +245,30 @@ This repo is basically a kind of Index just as given in a book. Here you can fin
 </details>
 
 <!-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------   -->
+<details>
+<summary>
+  
+  ## Python :pushpin:
+  
+  </summary open>
+  
+   |  Sr.no       | Repository|Description|Type  
+| -------------|--------------|--------------|--------------|   
+|1. |py-prgms  |  | |
+|2. | FaceDetection     |  | |  
+
+</details>
+<!-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------   -->
+<details>
+<summary>
+  
+  ## NextJS :pushpin:
+  
+  </summary open>
+  
+   |  Sr.no       | Repository|Description|Type  
+| -------------|--------------|--------------|--------------|   
+|1. |Mystore-NextJS  |  | |
+|2. |      |  | |  
+
+</details>
