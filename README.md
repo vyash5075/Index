@@ -54,7 +54,7 @@ This repo is basically a kind of Index just as given in a book. Here you can fin
 |5. |Proshop-mern-stack        |    |   |
 |6. |React-Node-GraphQL        |    |   |
 |7. | Webchat-Application-socket.io       |    |   |
-|8. |        |    |   |
+|8. | BurgerPrism-ReactApp        |    |   |
 |9. |        |    |   |
 |10. |        |    |   |
 |11. |        |    |   |
@@ -127,8 +127,8 @@ This repo is basically a kind of Index just as given in a book. Here you can fin
 |6. |  Competitive      |    |   |
 |7. | searching-sorting        |    |   |
 |8. |Data_Structures        |    |   |
-|9. |        |    |   |
-|10. |        |    |   |
+|9. |JAVA-DS-Assignments        |    |   |
+|10. | Star-Number-Patterns        |    |   |
 |11. |        |    |   |
 |12. |        |    |   |
 </details>
@@ -149,12 +149,22 @@ This repo is basically a kind of Index just as given in a book. Here you can fin
 |4. | To-Do-App       |    |   |
 |5. | Responsive-design       |    |   |
 |6. | Microsoft-ExcelClone        |    |   |
-|7. |        |    |   |
-|8. |        |    |   |
-|9. |        |    |   |
-|10. |        |    |   |
-|11. |        |    |   |
-|12. |        |    |   |
+|7. |covid-fighter-game        |    |   |
+|8. | portfolio        |    |   |
+|9. | Alarmy       |    |   |
+|10. |  Meme-Generator       |    |   |
+|11. |Calculator         |    |   |
+|12. |Snake-Xenzia-App        |    |   |
+|13. |AJAX-API-Integration       |    |   |
+|14. |Notepad     |    |   |
+|15. |Analog-Clock       |    |   |
+|16. |Currency-Convertor      |    |   |
+|17. |StopWatch        |    |   |
+|18. |Drum-Sticks         |    |   |
+|19. |CountDown-Timer         |    |   |
+|20. |Digital-Clock         |    |   |
+|21. |Hauzecook         |    |   |
+
 </details>
 
 <!-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------   -->
@@ -173,7 +183,7 @@ This repo is basically a kind of Index just as given in a book. Here you can fin
 |4. |E-SHOP-Angular9-ecommerce         | backend -> E-shop-RestApi-Nodejs   |   |
 |5. | Invoice-App       |    |   |
 |6. | The-Spruce-Eats        |    |   |
-|7. |        |    |   |
+|7. |Article-Directory         |    |   |
 |8. |        |    |   |
 |9. |        |    |   |
 |10. |        |    |   |
