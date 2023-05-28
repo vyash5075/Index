@@ -2,7 +2,7 @@
 [![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22)
 
 ## Usage :placard:
-This repo is basically a kind of Index just as given in a book. Here you can find a collection of Repositories group by stack.You can easily navigative directly to that Repository and explore the content.
+This repo is basically a kind of Index. Here you can find a collection of Repositories group by stack.You can easily navigative directly to that Repository and explore the content.
 
 
 ## :green_book: Table of Contents:joystick:
