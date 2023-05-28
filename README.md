@@ -37,6 +37,13 @@ This repo is basically a kind of Index. Here you can find a collection of Reposi
 |19:|quiz-app| | | |
 |20:|react-component-npm-package| | | |
 |21:|String-trunc-npm-package| | | |
+|22.|React-storybook | | | 
+|23.|React-Charts| |  |
+|24.|Redux-Toolkit-thunk| | |
+|25.|redux-toolkit-CRUD| | |
+|26.|microfront-root-app  | | |
+|27.| | | |
+|28.| | | |
  
 </details>
 
@@ -171,6 +178,8 @@ This repo is basically a kind of Index. Here you can find a collection of Reposi
 |20. |Digital-Clock         |    |   |
 |21. |Hauzecook         |    |   |
 |22.|memory-card-game| | | 
+|23.|Machine-coding-Questions | | | 
+|24.|Book-My-Show-Seat-Booking-LLD| | |
 
 </details>
 
@@ -212,14 +221,17 @@ This repo is basically a kind of Index. Here you can find a collection of Reposi
 |2. |quiz-app-react-native     |  | |  
 |3. |React-Native-Ecommerce-EasyBuy-       |    |   |
 |4. |react-native        |    |   |
-|5. |        |    |   |
-|6. |        |    |   |
-|7. |        |    |   |
-|8. |        |    |   |
-|9. |        |    |   |
-|10. |        |    |   |
-|11. |        |    |   |
-|12. |        |    |   |
+|5. |MovieAPP        |    |   |
+|6. |SocialOse-React-Native        |    |   |
+|7. |React-Native-Quiz-App        |    |   |
+|8. |DoctorApp        |    |   |
+|9. | React-Native-Push-notifications       |    |   |
+|10.|weatherApp-ReactNative        |    |   |
+|11.|StopWatch-ReactNative        |    |   |
+|12.|React-Natve-Calculator        |    |   |
+|13.|React-Native-Ecommerce-EasyBuy |  | |
+|14.|React-Native-Ecommerce-EasyBuy-frontend   |backend: React-Native-Ecommerce-EasyBuy-backend  | |
+|15.|  |  | |
 </details>
 
 <!-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------   -->
@@ -287,7 +299,7 @@ This repo is basically a kind of Index. Here you can find a collection of Reposi
   
   </summary open>
   
-   |  Sr.no       | Repository|Description|Type  
+|  Sr.no       | Repository|Description|Type  
 | -------------|--------------|--------------|--------------|   
 |1. |Mystore-NextJS  |  | |
 |2. |takeofholiday-next       |  | |  
