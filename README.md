@@ -34,6 +34,9 @@ This repo is basically a kind of Index just as given in a book. Here you can fin
 |16. | WeatherForcast-ReactWebApp          |    |   |
 |17. |InDecisionApp-Reactjs     |    |   |
 |18. | WeatherForcast-ReactWebApp          |    |   |
+|19:|quiz-app| | | |
+|20:|react-component-npm-package| | | |
+|21:|String-trunc-npm-package| | | |
  
 </details>
 
@@ -82,7 +85,10 @@ This repo is basically a kind of Index just as given in a book. Here you can fin
 |9. |Restapi-ExpressJs-JWT-Authentication        |    |   |
 |10. | Password_Management-Node.JS-Express-App       |    |   |
 |11. |Node-JS-fundamentals         |    |   |
-|12. |        |    |   |
+|12. |node-sequelize        |    |   |
+|13.|Terra-Digital-Backend | | |
+ |14.|NodeJS-CRUD| | | 
+  |15.|Firebase-cloud-image-uploading | | |
 </details>
 
 <!-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------   -->
@@ -164,6 +170,7 @@ This repo is basically a kind of Index just as given in a book. Here you can fin
 |19. |CountDown-Timer         |    |   |
 |20. |Digital-Clock         |    |   |
 |21. |Hauzecook         |    |   |
+|22.|memory-card-game| | | 
 
 </details>
 
@@ -247,11 +254,15 @@ This repo is basically a kind of Index just as given in a book. Here you can fin
 |5. | Banking-Auth-Microservice       |    |   |
 |6. | Go-Mongo-RestApi-Gin-Gonic-       |    |   |
 |7. | Go-Gin-Microservice-RestApi        |    |   |
-|8. |        |    |   |
-|9. |        |    |   |
-|10. |        |    |   |
-|11. |        |    |   |
-|12. |        |    |   |
+|8. |Go-Gin-Gorm        |    |   |
+|9. |Go-mux-GORM         |    |   |
+|10. |GO-mysql-Gin-RestApi         |    |   |
+|11. |Go-mux-mysql-Restapi         |    |   |
+|12. |Go-Mongo-Mux         |    |   |
+|13. |Go-Mongo-RestApi-Gin-Gonic-Jwt       |    |   |
+|14. |Go-basic-server         |    |   |
+|15. |Go-Learning         |    |   |
+|16. |         |    |   |
 </details>
 
 <!-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------   -->
@@ -279,6 +290,6 @@ This repo is basically a kind of Index just as given in a book. Here you can fin
    |  Sr.no       | Repository|Description|Type  
 | -------------|--------------|--------------|--------------|   
 |1. |Mystore-NextJS  |  | |
-|2. |      |  | |  
+|2. |takeofholiday-next       |  | |  
 
 </details>
