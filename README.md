@@ -18,7 +18,7 @@ This repo is basically a kind of Index. Here you can find a collection of Reposi
   
    |  Sr.no       | Repository|Description|Type  
 | -------------|--------------|--------------|--------------|   
-|1. |EasyEvent-React-Node-Graphql |  | |
+|1. |[Machine-coding-Questions](https://github.com/vyash5075/Machine-coding-Questions) |  | |
 |2. | Chatbot-websocket      |  | |  
 |3. |  Zoom-Clone      |    |   |
 |4. |Instagram-REACTAPP_PWA        |    |   |
