@@ -7,8 +7,35 @@ This repo is basically a kind of Index. Here you can find a collection of Reposi
 
 ## :green_book: Table of Contents:joystick:
 
+
+
 <details>
 <summary>
+  
+  ## Frontend Preperation :pushpin:
+  
+  </summary open>
+  
+   |  Sr.no       | Repository|Description|Type  
+| -------------|--------------|--------------|--------------|   
+|1. |EasyEvent-React-Node-Graphql |  | |
+|2. | Chatbot-websocket      |  | |  
+|3. |  Zoom-Clone      |    |   |
+|4. |Instagram-REACTAPP_PWA        |    |   |
+|5. |Proshop-mern-stack        |    |   |
+|6. |React-Node-GraphQL        |    |   |
+|7. | Webchat-Application-socket.io       |    |   |
+|8. | BurgerPrism-ReactApp        |    |   |
+|9. |        |    |   |
+|10. |        |    |   |
+|11. |        |    |   |
+|12. |        |    |   |
+</details>
+  <!-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------   -->
+
+<details>
+<summary>
+
   
   ## ReactJS :pushpin:
   
