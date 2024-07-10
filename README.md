@@ -19,10 +19,10 @@ This repo is basically a kind of Index. Here you can find a collection of Reposi
    |  Sr.no       | Repository|Description|Type  
 | -------------|--------------|--------------|--------------|   
 |1. |[Machine-coding-Questions](https://github.com/vyash5075/Machine-coding-Questions) |  | |
-|2. | Chatbot-websocket      |  | |  
-|3. |  Zoom-Clone      |    |   |
-|4. |Instagram-REACTAPP_PWA        |    |   |
-|5. |Proshop-mern-stack        |    |   |
+|2. |[React-Custom-Hooks](https://github.com/vyash5075/React-Custom-Hooks/tree/master/src)     |  | |  
+|3. |[Utils- Utility functions js](https://github.com/vyash5075/Utils)    |    |   |
+|4. |[Javascript-codes](https://github.com/YashLT224/Javascript-codes)       |    |   |
+|5. |[Machine-coding-Questions](https://github.com/YashLT224/Machine-coding-Questions)        |    |   |
 |6. |React-Node-GraphQL        |    |   |
 |7. | Webchat-Application-socket.io       |    |   |
 |8. | BurgerPrism-ReactApp        |    |   |
